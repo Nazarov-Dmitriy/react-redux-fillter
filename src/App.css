@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.servise-list {
+  width: 700px;
+  margin: 0 auto;
+
+}
+
+.servise-item {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.btn {
+  margin-left: 10px;
+  width: 25px;
+  height: 25px;
+}
+
+.btn img {
+  width: 15px;
+  height: 15px;
+  align-items: center;
+  margin: 2px 0 0 -2px;
+}
+
+form {
+  margin-top: 35px;
+}
+
+form button {
+  margin-left: 15px;
+}
